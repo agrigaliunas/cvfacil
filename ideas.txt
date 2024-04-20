@@ -1,0 +1,12 @@
+Elegir forma de armar Cv:
+    - step by step
+    - a mano
+
+
+Poder arrastrar y poner cosas donde quiera ?
+O estandarizar cvs
+
+
+Colores como quieras
+
+Poner redes sociales
