@@ -2,7 +2,7 @@ import Link from 'next/link';
 export const Header = () => {
 
   return (
-    <header className='h-[10vh] top-0 sticky mx-5 border-b border-b-slate-200'>
+    <header className='h-[10vh] top-0 sticky mx-5 border-b border-b-slate-200 bg-white'>
       <div className='flex items-center flex-row h-full justify-between'>
         <h1 className='text-xl text-violet-700 font-semibold'><Link href='/'>CVfacil</Link></h1>
         <div className='flex items-center justify-end gap-8 h-full'>
